@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Istiak!<br>🎓Studied Theoretical Physics at Tezpur University, India<br>🙇 Pursuing PhD in Observational Astronomy and Machine Learning <br> Skills:-PowerBI, Tableau, SQL, Python , Machine Learning, Deep Learning, GenAI
+Hi, I am Istiak!<br>🎓Studied Theoretical Physics at Tezpur University, India with Specialization in High Energy Physics and Astrophysics<br>🙇 Currently, pursuing PhD in Observational Astronomy and Machine Learning <br> Skills:-PowerBI, Tableau, SQL, Python , Machine Learning, Deep Learning, GenAI, Cloud Platforms, MLOps
 
 
 
